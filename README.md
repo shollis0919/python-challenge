@@ -4,8 +4,10 @@
 Inside the repository are 2 python scripts that are made for the CSV's proivided (budget_data and election_data). 2 text files that contain the results for both python scripts are included as well.
 
 
-The following code was devised from 
-for x,y in zip(profitLoss, profitLoss[1:]): https://stackoverflow.com/questions/21303224/iterate-over-all-pairs-of-consecutive-items-in-a-list
+The following code was devised from: 
+https://stackoverflow.com/questions/21303224/iterate-over-all-pairs-of-consecutive-items-in-a-list
+
+for x,y in zip(profitLoss, profitLoss[1:]): 
 
 
 The following code was devised from: https://stackoverflow.com/questions/36571560/directing-print-output-to-a-txt-file
